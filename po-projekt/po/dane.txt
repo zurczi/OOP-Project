@@ -1,0 +1,4 @@
+programista Jan Kowalski 1 100
+programista Janina Kluczyk 2 50
+student Kamil Nowak 3 20
+programista Kasia Szpak 6 60
